@@ -15,6 +15,7 @@
 
 Deployed Website [Live Demo](https://assignment-zuddl.vercel.app/).
 
+![Screenshot](https://github.com/kumaradityaraj/assignment-zuddl)
 
 ![Screenshot] (https://github.com/kumaradityaraj/assignment-zuddl)
 
