@@ -15,9 +15,9 @@
 
 Deployed Website [Live Demo](https://assignment-zuddl.vercel.app/).
 
-![Screenshot](https://github.com/kumaradityaraj/assignment-zuddl)
+![Screenshot](https://github.com/kumaradityaraj/assignment-zuddl/blob/master/React%20App%20-%20Google%20Chrome%208_25_2022%2010_08_59%20PM.png)
 
-![Screenshot] (https://github.com/kumaradityaraj/assignment-zuddl)
+
 
 # Changes In API
 - There are four main operations in any API and that is known as CRUD which is CREATE, READ, UPDATE, DELETE.
